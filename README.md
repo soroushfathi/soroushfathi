@@ -6,5 +6,5 @@ SF = {
     'Back End': [Django🐱‍👤, RestAPI],
     'frameworks': [telethon 🐲, python telegram bot 🤖'],
     'Education🏫': CE at Ferdowsi University of Mashhad :mortar_board: ,
-    'resume': link
+    'resume': attached
 }
