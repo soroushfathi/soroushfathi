@@ -2,7 +2,7 @@
 ```python
 SF = {
     'Position': Freelancer,
-    'Programming Languages': [Python 🐍, Java ☕],
+    'Programming Languages': [Python 🐍, Java ☕, CPP],
     'Back End': [Django🐱‍👤, RestAPI],
     'frameworks': [telethon 🐲, python telegram bot 🤖'],
     'Education🏫': CE at Ferdowsi University of Mashhad,
