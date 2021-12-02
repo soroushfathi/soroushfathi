@@ -1,11 +1,18 @@
 ### Hi there 👋
 ```python
-SF = {
+class SF👦🏻{
     'Position': Freelancer,
-    'Programming Languages': [Python 🐍, Java ☕, CPP],
+    'Programming Languages': [Python 🐍, Java ☕, CPP🤓],
     'Back End': [Django🐱‍👤, RestAPI],
-    'frameworks': [telethon 🐲, python telegram bot 🤖'],
-    'Education🏫': CE at Ferdowsi University of Mashhad,
+    'frameworks': [telethon 🐲, python telegram bot 🤖],
+    'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
+    'Learning' = [
+        "Computer Engineering",
+        "Django",
+        "OpenCV",
+        "linux",
+    ],
+    sport = [🏐💪🏻]
     'CV': attached :)
 }
 ```
