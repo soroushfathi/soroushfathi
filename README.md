@@ -7,10 +7,10 @@ class SF👦🏻{
     'frameworks': [Telethon 🐲, Python Telegram Bot 🤖],
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
     'Learning' = [
-        "Computer Engineering",
-        "Django",
-        "OpenCV",
-        "linux",
+        Computer Engineering,
+        Django,
+        OpenCV,
+        Linux,
     ],
     sport = [🏐💪🏻]
     'CV': attached :)
