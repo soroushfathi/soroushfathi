@@ -12,7 +12,7 @@ class SF👦🏻{
         OpenCV,
         Linux,
     ],
-    sport = [🏐💪🏻]
+    'sport': [🏐💪🏻]
     'CV': attached :)
 }
 ```
