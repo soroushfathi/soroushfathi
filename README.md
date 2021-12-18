@@ -13,7 +13,5 @@ class SF👦🏻{
         Linux,
     ],
     'sport': [🏐💪🏻]
-    'CV': attached :)
 }
 ```
-[Soroush Fathi_1400-9-11.pdf](https://github.com/soroushfathi/soroushfathi/files/7642974/Soroush.Fathi_1400-9-11.pdf)
