@@ -8,7 +8,6 @@ class SF👦🏻{
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
     'Learning' = [
         Computer Engineering,
-        Django,
         OpenCV,
         Linux,
     ],
