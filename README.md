@@ -1,6 +1,7 @@
 ### Hi there 👋
+#### this is me
 ```python
-class SF👦🏻{
+class SF👦🏻 {
     'Position': Freelancer,
     'Programming Languages': [Python 🐍, Java ☕, CPP🤓],
     'Back End': [Django🐱‍👤, RestAPI],
