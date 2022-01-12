@@ -15,7 +15,7 @@
 
 ### about me
 ```python
-class SF👦🏻 {
+SF👦🏻 = {
     'Position': Freelancer,
     'Programming Languages': [Python 🐍, Java ☕, CPP🤓],
     'Back End': [Django🐱‍👤, RestAPI],
