@@ -87,6 +87,17 @@ SF👦🏻 = {
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-    
-[![soroush's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushfathi&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/soroushfathi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushfathi&layout=compact&theme=radical)](https://github.com/soroushfathi/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/vitasha10">
+  <img height="180em" src="https://link.eu1.storjshare.io/s/jxxajmysxqdvj4gxf6bk7cduwbka/vitasha/rank.svg?download"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroushfathi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical"/> 
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushfathi&theme=radical&hide_border=true&background=1a1b27"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=soroushfathi&margin-w=10&no-frame=true&row=1&theme=radical"/>
+  </a>
+</p>
+
+<!-- [![soroush's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushfathi&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/soroushfathi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushfathi&layout=compact&theme=radical)](https://github.com/soroushfathi/github-readme-stats) -->
