@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hey there! Nice to meet you :)</h1>
 
-### contact
+<!-- ### contact
 
 <a target="_blank" href="https://www.linkedin.com/in/soroush-fathi-45aa07201/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,7 +12,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <a target="_blank" href="mailto:soroush8fathi@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<br/>
+<br/> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 ```python
@@ -89,7 +89,7 @@ SF👦🏻 = {
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/vitasha10">
+  <a href="https://github.com/soroushfathi">
   <img height="180em" src="https://link.eu1.storjshare.io/s/jxxajmysxqdvj4gxf6bk7cduwbka/vitasha/rank.svg?download"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroushfathi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical"/> 
   <br/>
@@ -99,5 +99,14 @@ SF👦🏻 = {
   </a>
 </p>
 
-<!-- [![soroush's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushfathi&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/soroushfathi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushfathi&layout=compact&theme=radical)](https://github.com/soroushfathi/github-readme-stats) -->
+### 🤝🏻 &nbsp;Connect with Me
+  
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=989118809060"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=whatsapp&color=succes&logoColor=white"/></a>
+<a href="mailto:soroush8fathi@gmail.com"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/soroush_fathi/"><img src="https://img.shields.io/badge/-soroush_fathi-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/soroushfathi.pb/"><img src="https://img.shields.io/badge/-soroushfathi.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soroush-fathi-45aa07201/"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
+  
+</p>
