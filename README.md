@@ -103,10 +103,10 @@ SF👦🏻 = {
   
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=989118809060"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=whatsapp&color=succes&logoColor=white"/></a>
-<a href="mailto:soroush8fathi@gmail.com"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/soroush_fathi/"><img src="https://img.shields.io/badge/-soroush_fathi-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/soroushfathi.pb/"><img src="https://img.shields.io/badge/-soroushfathi.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soroush-fathi-45aa07201/"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=989118809060" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=whatsapp&color=succes&logoColor=white"/></a>
+<a href="mailto:soroush8fathi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/soroush_fathi/" target="_blank"><img src="https://img.shields.io/badge/-soroush_fathi-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/soroushfathi.pb/" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soroush-fathi-45aa07201/" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
   
 </p>
