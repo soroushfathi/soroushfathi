@@ -32,7 +32,7 @@ SF👦🏻 = {
 ```
 
   ### 🛠 &nbsp;Tech Stack
-<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/> -->
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&color=darkgreen)&nbsp;
