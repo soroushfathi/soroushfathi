@@ -36,16 +36,18 @@ SF👦🏻 = {
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&color=darkgreen)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgres&color=darkgreen)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-05122A?style=flat&logo=postgresql&color=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![OpenCV](https://img.shields.io/badge/opencv-05122A?style=flat&logo=opencv)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
- 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;  
+
 <details>
 <summary>More Skills</summary>
   
