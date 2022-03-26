@@ -36,6 +36,7 @@ SF👦🏻 = {
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&color=darkgreen)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgres&color=darkgreen)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
