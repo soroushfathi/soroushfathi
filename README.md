@@ -15,6 +15,7 @@
 <br/> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+Back-End Developer [django]
 ```python
 SF👦🏻 = {
     'Position': Freelancer,
