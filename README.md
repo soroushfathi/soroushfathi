@@ -31,6 +31,7 @@ SF👦🏻 = {
     'sport': [🏐💪🏻]
 }
 ```
+<li><a href="https://zil.ink/soroushfathi">لینک ها</a></li>
 
   ### 🛠 &nbsp;Tech Stack
 <!-- <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/> -->
