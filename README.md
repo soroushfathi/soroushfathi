@@ -25,7 +25,7 @@ SF👦🏻 = {
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
     'Learning🌱' = [
         Computer Engineering,
-        OpenCV,
+        Machine Learning,
         Linux,
     ],
     'sport': [🏐💪🏻]
