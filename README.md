@@ -19,7 +19,7 @@ Back-End Developer [django]
 ```python
 SF👦🏻 = {
     'Position': Freelancer,
-    'Programming Languages': [Python 🐍, Java ☕, CPP🤓],
+    'Programming Languages': [Python 🐍, Java ☕, C🤓],
     'Back End': [Django🐱‍👤, RestAPI],
     'Telegram API': [Telethon 🐲, Python Telegram Bot 🤖],
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
