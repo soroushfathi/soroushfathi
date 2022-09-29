@@ -14,8 +14,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
 
-### 👨🏻‍💻 &nbsp;About Me
-Back-End Developer [django]
+### 👨🏻‍💻 &nbsp;About Me - Back-End Developer [django]
 ```python
 SF👦🏻 = {
     'Position': Freelancer,
