@@ -23,7 +23,6 @@ SF👦🏻 = {
     'Telegram API': [Telethon 🐲, Python Telegram Bot 🤖],
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
     'Learning🌱' = [
-        Computer Engineering,
         Machine Learning,
         Linux,
     ],
