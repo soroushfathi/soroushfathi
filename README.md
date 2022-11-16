@@ -17,7 +17,7 @@
 ### 👨🏻‍💻 &nbsp;About Me - Back-End Developer [django]
 ```python
 SF👦🏻 = {
-    'Position': Freelancer,
+    'Position': Backend Develope at Amoot,
     'Programming Languages': [Python🐍, Java☕, C🤓],
     'Back End': [Django🐱‍👤, RestAPI],
     'Telegram API': [Telethon 🐲, Python Telegram Bot 🤖],
