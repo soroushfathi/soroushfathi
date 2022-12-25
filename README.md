@@ -17,7 +17,7 @@
 ### 👨🏻‍💻 &nbsp;About Me Python Back-End Developer - Machine Learning Engineer
 ```python
 SF👦🏻 = {
-    'Position': Backend Develope at Amoot,
+    'Position': Backend Developer at Amoot Soft,
     'Programming Languages': [Python🐍, Java☕, C🤓],
     'Back End': [Django🐱‍👤, RestAPI],
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
