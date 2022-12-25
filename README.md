@@ -14,20 +14,11 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
 
-### 👨🏻‍💻 &nbsp;About Me Python Back-End Developer - Machine Learning Engineer
-```python
-SF👦🏻 = {
-    'Position': Backend Developer at Amoot Soft,
-    'Programming Languages': [Python🐍, Java☕, C🤓],
-    'Back End': [Django🐱‍👤, RestAPI],
-    'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
-    'Learning🌱' = [
-        Machine Learning,
-        Linux,
-    ],
-    'sport': [🏐💪🏻]
-}
-```
+### 👨🏻‍💻 &nbsp;About Me
+ 🌱 Python Back-End Developer - Machine Learning Engineer
+ 🌱 Learning DevOps
+ 🌱 CE Student at Ferdowsi University of Mashhad
+
 <li><a href="https://zil.ink/soroushfathi">لینک ها</a></li>
 
   ### 🛠 &nbsp;Tech Stack
