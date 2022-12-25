@@ -15,15 +15,14 @@
 <br/> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
- 🌱 Python Back-End Developer - Machine Learning Engineer
- 🌱 Learning DevOps
- 🌱 CE Student at Ferdowsi University of Mashhad
+ 🌱 Python Back-End Developer - Machine Learning Engineer <br>
+ 👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
-<li><a href="https://zil.ink/soroushfathi">لینک ها</a></li>
+<li><a href="https://zil.ink/soroushfathi">links</a></li>
 
-  ### 🛠 &nbsp;Tech Stack
-<!-- <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/> -->
-
+<details>
+  <summary>🛠<b>Tech Stack</b></summary>
+ 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&color=darkgreen)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgresql-05122A?style=flat&logo=postgresql&color=white)&nbsp;
@@ -38,36 +37,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;  
 
-<details>
-<summary>More Skills</summary>
-  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
- 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
-  
 </details>
 <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp; -->
 <!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) -->
 <!--   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp; -->
-<!-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)&nbsp; -->
-<!-- ![Adobe Illustrator](https://img.shields.io/badge/Adobei%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)&nbsp; -->
-<!-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)&nbsp; -->
-<!-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) -->
-<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp; -->
-<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)&nbsp; -->
-<!-- ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=flat&logo=nextcloud&logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp; -->
-<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)&nbsp; -->
 <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)&nbsp; -->
-<!-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) -->
-<!-- ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=Tor-Browser&logoColor=white)&nbsp; -->
-<!-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)&nbsp; -->
-
 
 <!-- **Languages and Tools:**  
 
@@ -91,7 +66,7 @@
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact me
   
 <p align="center">
 
