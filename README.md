@@ -14,13 +14,12 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
 
-### 👨🏻‍💻 &nbsp;About Me - Back-End Developer [django]
+### 👨🏻‍💻 &nbsp;About Me Python Back-End Developer - Machine Learning Engineer
 ```python
 SF👦🏻 = {
     'Position': Backend Develope at Amoot,
     'Programming Languages': [Python🐍, Java☕, C🤓],
     'Back End': [Django🐱‍👤, RestAPI],
-    'Telegram API': [Telethon 🐲, Python Telegram Bot 🤖],
     'Education👨🏻‍🎓': CE at Ferdowsi University of Mashhad🏫,
     'Learning🌱' = [
         Machine Learning,
