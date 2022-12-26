@@ -15,8 +15,8 @@
 <br/> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
- 🌱 Python Back-End Developer - Machine Learning Engineer <br>
- 🌱 Learning DevOps
+ 🌱 Python Back-End Developer - Machine Learning Engineer <br/>
+ 🌱 Learning DevOps <br/>
  👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
 <li><a href="https://zil.ink/soroushfathi">links</a></li>
