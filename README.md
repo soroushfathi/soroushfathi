@@ -15,7 +15,7 @@
 <br/> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
- 🌱 Python Back-End Developer - Machine Learning Engineer <br/>
+ 💼 Python Back-End Developer - Machine Learning Engineer <br/>
  🌱 Learning DevOps <br/>
  👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
