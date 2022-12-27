@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://github.com/soroushfathi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soroushfathi&hide=contribs,issues&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroushfathi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical"/> 
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroushfathi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical"/>  -->
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushfathi&theme=radical&hide_border=true&background=1a1b27"/>
   <br/>
