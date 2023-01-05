@@ -14,7 +14,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
 ### 📬 Pesonal Blog on hashnode
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Why Postgres? [link](https://soroushfathi.hashnode.dev/)?
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Why Postgres? [link](https://soroushfathi.hashnode.dev/)
 ### 👨🏻‍💻 &nbsp;About Me
 &nbsp;&nbsp;&nbsp;&nbsp;💼 Python Back-End Developer - Machine Learning Engineer <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning DevOps <br/>
