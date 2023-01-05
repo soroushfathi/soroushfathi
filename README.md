@@ -13,7 +13,8 @@
 <a target="_blank" href="mailto:soroush8fathi@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
-
+### 📬 Pesonal Blog on hashnode
+  🔷 Why [Postgres](https://soroushfathi.hashnode.dev/)?
 ### 👨🏻‍💻 &nbsp;About Me
  💼 Python Back-End Developer - Machine Learning Engineer <br/>
  🌱 Learning DevOps <br/>
