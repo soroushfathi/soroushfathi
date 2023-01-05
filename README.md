@@ -14,11 +14,11 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
 ### 📬 Pesonal Blog on hashnode
-  🔷 Why [Postgres](https://soroushfathi.hashnode.dev/)?
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Why [Postgres](https://soroushfathi.hashnode.dev/)?
 ### 👨🏻‍💻 &nbsp;About Me
- 💼 Python Back-End Developer - Machine Learning Engineer <br/>
- 🌱 Learning DevOps <br/>
- 👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Python Back-End Developer - Machine Learning Engineer <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning DevOps <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
 <li><a href="https://zil.ink/soroushfathi">links</a></li>
 
