@@ -16,7 +16,7 @@
 ### 📬 Pesonal Blog on hashnode
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Why Postgres? [link](https://soroushfathi.hashnode.dev/)
 ### 👨🏻‍💻 &nbsp;About Me
-&nbsp;&nbsp;&nbsp;&nbsp;💼 Python Back-End Developer - Machine Learning Engineer <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Python Back-End Developer - Learning Machine Learning :) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning DevOps <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
