@@ -1,5 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hey there! Nice to meet you :)</h1>
 
+### 📚 Recent blog posts:
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <!-- ### contact
 
 <a target="_blank" href="https://www.linkedin.com/in/soroush-fathi-45aa07201/">
