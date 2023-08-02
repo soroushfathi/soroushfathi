@@ -19,8 +19,7 @@
 <a target="_blank" href="mailto:soroush8fathi@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/> -->
-### 📬 Pesonal Blog on hashnode
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Why Postgres? [link](https://soroushfathi.hashnode.dev/)
+
 ### 👨🏻‍💻 &nbsp;About Me
 &nbsp;&nbsp;&nbsp;&nbsp;💼 Python Back-End Developer - Learning Machine Learning :) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning DevOps <br/>
