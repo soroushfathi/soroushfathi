@@ -4,7 +4,6 @@
 <!-- BLOGPOSTS:START -->
  - 🚀 [An overview of RPC](https://soroushfathi.hashnode.dev/an-overview-of-rpc)
  - 🚀 [PostgreSQL](https://soroushfathi.hashnode.dev/postgresql)
- - 🚀 [Telegram API](https://soroushfathi.hashnode.dev/telegram-api)<!-- BLOGPOSTS:END -->
 
 <!-- ### contact
 
