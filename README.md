@@ -3,15 +3,15 @@
   Hey there! I'm Soroush Fathi
 </h1>
 
-<h3 align="center">💻 Founder & Software Engineer @ foroushyar.ir | ⚛️ Quantum Computing Researcher</h3>
+<h3 align="center">💻 Founder & Software Engineer @ Foroushyar | ⚛️ Quantum Computing Researcher</h3>
 
 ---
 
 ## ⚡️ About Me
 
-- 🔭 Currently working on **Quantum Computing** (circuits, noise models, distributed QC)
+- 🔭 Currently working on **Quantum Computing** (circuits)
 - 🧠 Interested in **Distributed Systems**, **Backend Engineering**, and **High-performance computing**
-- 🚀 Founder & Software Engineer at **Foroushyar.ir**
+- 🚀 Founder & Software Engineer at **[Foroushyar](https://foroush-yar.ir)**
 - ✍️ Writing technical blogs about systems, databases and quantum fundamentals  
 - 🎯 Always learning, always building
 
@@ -39,7 +39,7 @@
 - Quantum Circuit Simulation  
 - Quantum Error Mitigation  
 - Noise Modeling & Real-world decoherence  
-- Qiskit / Cirq / Pennylane toolchains  
+- Qiskit / MQT
 - Building experimental interpreters for quantum gates  
 
 ---
@@ -47,8 +47,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soroushfathi&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushfathi&theme=radical&hide_border=true"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=soroushfathi&margin-w=10&no-frame=true&row=1&theme=radical"/>
@@ -70,6 +68,5 @@
 <a href="https://api.whatsapp.com/send?phone=989118809060" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:soroush8fathi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/soroush_fathi/" target="_blank"><img src="https://img.shields.io/badge/-soroush_fathi-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/soroushfathi.pb/" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soroush-fathi-45aa07201/" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/soroushfathi_note/" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 </p>
