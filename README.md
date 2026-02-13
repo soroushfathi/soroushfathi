@@ -9,7 +9,7 @@
 
 ## ⚡️ About Me
 
-- 🔭 Currently working on **Quantum Computing** (circuits)
+- 🔭 Currently working on **Quantum Computing** ( Qiskit / MQT )
 - 🧠 Interested in **Distributed Systems**, **Backend Engineering**, and **High-performance computing**
 - 🚀 Founder & Software Engineer at **[Foroushyar](https://foroush-yar.ir)**
 - ✍️ Writing technical blogs about systems, databases and quantum fundamentals  
@@ -25,45 +25,9 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,linux,docker,postgres,redis,git,cloudflare,nginx&perline=6" />
-</p>
-
----
-
-## 🧪 Working on Quantum Computing
-
-### ⚛️ Current Focus  
-- Quantum Circuit Simulation  
-- Quantum Error Mitigation  
-- Noise Modeling & Real-world decoherence  
-- Qiskit / MQT
-- Building experimental interpreters for quantum gates  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushfathi&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=soroushfathi&margin-w=10&no-frame=true&row=1&theme=radical"/>
-</p>
-
----
-
 ## 🔗 Links
 
-- 🌐 All links: https://zil.ink/soroushfathi  
 - 📘 LinkedIn: https://www.linkedin.com/in/soroush-fathi-45aa07201/  
-- 📩 Email: **soroush8fathi@gmail.com**  
-
----
-
-## 🤝 Contact Me
-
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=989118809060" target="_blank"><img src="https://img.shields.io/badge/-soroushfathi-2CA5E0?style=plastic&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:soroush8fathi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
